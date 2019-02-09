@@ -698,6 +698,12 @@ color:#fff;
 	padding:50px 0;
 }
 
+.p100
+{
+	padding:100px 0;
+
+}
+
 .p50
 {
 	padding:50px 0;
@@ -710,14 +716,32 @@ color:#fff;
 	
  
 }
- 
+ .cwhite a
+{
+	 
+	color:#000;
+	line-height:30px;
+}
 
-
+.cwhite
+{
+	background-color: #fff; 
+	color:#000;
+	border-bottom:1px solid #000;
+}
+	
 .dblue
 {
 	background-color: rgb(0, 47, 107);
 	
 	color:#fff;
+}
+
+.lblue p
+{
+	color:#fff;
+	
+	
 }
 	.xbascp{ 
 
